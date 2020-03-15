@@ -1,0 +1,9 @@
+id,name,weapontype,firemode,isbuyable,pointstobuy,pointstobuyammo,ads.x,ads.y,ads.z,bulletpermag,maxammo,reloadtime,damage,adsspeed,range,firerate,recoilspread
+,M1911,pistol,semi,1,,,,,,,,,,,,,
+,UPS,pistol,semi,1,,,,,,,,,,,,,
+,M4A1,Assault,auto,1,,,,,,,,,,,,,
+,MP5,SMG,auto,1,,,,,,,,,,,,,
+,MP7,SMG,auto,1,,,,,,,,,,,,,
+,AK47,Assault,auto,1,,,,,,,,,,,,,
+,SCAR,Assault,auto,1,,,,,,,,,,,,,
+,VECTOR,SMG,auto,1,,,,,,,,,,,,,
